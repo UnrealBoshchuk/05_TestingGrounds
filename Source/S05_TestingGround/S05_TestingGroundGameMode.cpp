@@ -2,7 +2,7 @@
 
 #include "S05_TestingGroundGameMode.h"
 #include "S05_TestingGroundHUD.h"
-#include "S05_TestingGroundCharacter.h"
+#include "Player/FirstPersonCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AS05_TestingGroundGameMode::AS05_TestingGroundGameMode()
